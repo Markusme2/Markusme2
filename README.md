@@ -20,3 +20,7 @@
 
 
 ✨ Join me as I embark on this exciting adventure of turning ideas into reality, one line of code at a time. 
+
+
+![dance-terrycrews](https://github.com/Markusme2/ProfilePage/assets/89542115/466378b2-dea1-43c1-90c1-f52b291a0476)
+
