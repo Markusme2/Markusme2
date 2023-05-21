@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on [Chimera_Bot](https://github.com/Markusme2/Chimera_Bot). Check out its readme for its functionalities!
 
 - 🌱 I’m currently learning **SCIKIT-LEARN,MATPLOTLIB**
-
--:warning: I am open to collanorating on projects. Connect with me!
+- ⚠️ I am open to collaborating on projects. Connect with me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
